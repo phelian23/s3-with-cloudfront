@@ -7,7 +7,7 @@ variable "region" {
 variable "bucket_prefix" {
   description = "Bucket prefix"
   type        = string
-  default     = "cloudcation"
+  default     = "example"
 }
 
 variable "bucket_name" {
